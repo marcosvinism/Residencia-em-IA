@@ -14,24 +14,16 @@ O repositório será organizado da seguinte forma:
 - `datasets/`: Este espaço será reservado para descrições e metadados de conjuntos de dados. (Observação: devido ao tamanho e ao licenciamento, os conjuntos de dados reais podem não ser armazenados no repositório.)
 - `models/`:  Esta pasta inclui modelos treinados, arquiteturas de modelos e pesos, quando permitido.
 
-## Projetos
-
-Lista de projetos ou tarefas com uma breve descrição de cada um.
-
-- Project : 
-
 ## Uso
 
 Instruções sobre como usar o código, incluindo instalação, dependências e execução de scripts.
 
 ```bash
 # Example of how to clone the repository
-git clone https://github.com/[YourUsername]/
+git clone https://github.com/marcosvinism/Residencia-em-IA.git
 
 # Installation of dependencies
 pip install -r requirements.txt
 
 # Running a script
-python code/.py
-
-Em breve ...
+python code/.ipynb
